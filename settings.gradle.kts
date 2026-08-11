@@ -23,4 +23,4 @@ rootProject.name = "My Application student"
 include(":app")
 include(":app")
 include(":app")
- 
+include(":app")
