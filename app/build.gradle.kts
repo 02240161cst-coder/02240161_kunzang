@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cstlab.myapplicationstudent"
+    namespace = "com.cstlab.studentprofilepage"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.cstlab.myapplicationstudent"
+        applicationId = "com.cstlab.studentprofilepage"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
